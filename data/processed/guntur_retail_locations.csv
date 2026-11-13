@@ -1,0 +1,201 @@
+place_name,category,taxonomy_primary,address,city,postcode,longitude,latitude,phone,email,confidence,is_retail
+Amrit Jewellers,fashion_and_apparel_store,jewelry_store,Etukuru Rd,Guntur,522003,80.44667585,16.28909527,+918632220150,amritjeweller150@gmail.com,0.77479088306427,True
+Sri Vijaya Madhavi Jewellers,fashion_and_apparel_store,jewelry_store,Cloth Bazar,Guntur,522003,80.44695873,16.28933132,+919391515559,,0.48468896746635437,True
+Marwadi Ghee Sweets,casual_eatery,candy_store,Etukuru Rd,Guntur,522003,80.44675196,16.28943239,+918500360333,,0.6163539290428162,True
+Akshay Jewelers,fashion_and_apparel_store,jewelry_store,Etukuru Rd,Guntur,522003,80.44686486,16.28951561,,,0.5135437250137329,True
+Hazrat Syed Bhuranuddin Abusalehaa Dargah,christian_place_of_worship,christian_place_of_worship,,Guntur,,80.44669309,16.28975803,,,0.38824477791786194,False
+Himani Ghee Sweets,casual_eatery,candy_store,"Municipal Complex, Jinnah Tower Center Rd",Guntur,522003,80.44675718,16.29224334,+918632221770,puzvika.kanna321@gmail.com,0.4779490530490875,True
+New Liberty Footwear,fashion_and_apparel_store,shoe_store,,Guntur,522003,80.44675576,16.29171378,+919849201080,,0.212943896651268,True
+Royal Steel Corporation,manufacturer,metal_fabricator,"22-3-96, Beside King's Hotel, Old Police Lane, Lalapet, Guntur",Guntur,522003,80.44677,16.29142,+917045810866,info@royalsteelcorporation.com,0.5472019910812378,False
+Lakshmi Ganapathi Dresses,fashion_and_apparel_store,womens_clothing_store,"Police Station, Main Rd, opp. Lalapet",Guntur,522003,80.44700068,16.29116404,+918636640331,,0.30733993649482727,True
+sri rama natural leaf plates ,Unknown,,etukuru village ,Guntur,522017,80.44691,16.29095,+919014242041,niteesh22222@gmail.com,0.18244200944900513,False
+TEA TIME,hotel,hotel,Old guntur main road,Guntur,522001,80.44696,16.29094,+919010955329,,0.5330391526222229,False
+Sri Vinayaka Electrical,shopping,shopping,Etukuru Road,Guntur,522003,80.4468044,16.29078959,,,0.314085990190506,True
+AIHRP Council,social_or_community_service,social_or_community_service,"SHOP 8, KODI GUDDU SATRAM, B.R, STEDIUM ROAD",Guntur,522003,80.44690416,16.29076393,+916303200649,aihrpcouncil@gmail.com,0.22784145176410675,False
+Sai Balaji Fancy and Decorations,shopping,shopping,Etukuru Rd,Guntur,522003,80.44700441,16.29047524,+918978323411,,0.2790903151035309,True
+Mallikharjuna Pooja and Pachari Store,food_and_beverage_store,grocery_store,"Patnam Bazar Rd, beside Gandhi Statue",Guntur,522003,80.44692861,16.29015098,+918125776524,,0.3972935080528259,True
+Durga Glasses,fashion_and_apparel_store,eyewear_store,"DURGA GLASSES, lalapet mainroad fruitmarket, 23-1-139, opp. to sharma sweets",Guntur,522003,80.4467368,16.29013032,+917981373959,,0.23925986886024475,True
+New Telugunadu Family Articles,shopping,shopping,Main Rd,Guntur,522003,80.44675166,16.29012358,+919490343252,,0.31034597754478455,True
+Karumuri Super Speciality Hospital,hospital,hospital,"Old Club Road, Kothapeta",Guntur,522003,80.44989,16.29003,+918632522791,,0.5344496965408325,False
+HDFC ERGO Insurance Agent: V Lakshmi Chaitanya,financial_service,financial_service,Door No 16/8/167,Guntur,522001,80.450102,16.290001,080 3746 7778,,0.77,False
+Bade Masjid,muslim_place_of_worship,muslim_place_of_worship,"20-1-2, Road",Guntur,522003,80.44992306,16.28997981,,,0.48056432604789734,False
+IndusInd Bank ATM,atm,atm,"Opp Icici Atm, Fruit Market, Lalapet",Guntur,522003,80.4507257,16.2903809,18602677777,,0.85,False
+The Guntur Town Rice Dealers Association,social_or_community_service,social_or_community_service,Skp Temple Street Lala Pet,Guntur,522003,80.45075566,16.29031475,+918632220785,,0.2689005732536316,False
+Sravana Kumar Traders,automotive_service,automotive_service,"Voora Vari Street, Lalapet, Lalapet",Guntur,522003,80.450821,16.290333,+918632220568,,0.33663517236709595,False
+Pietza Pizza Guntur,restaurant,pizza_restaurant,"S.V.N Colony, Navabharath Nagar",Guntur,522006,80.452194213867,16.290483187913,,pietzapizza.gnt@gmail.com,0.6404552459716797,True
+Golden Gym,gym,gym,"Opp.King Hotel, Bombay Hosieries Upstairs 3rd Floor",Guntur,522001,80.452349615097,16.290423003926,+919000463535,,0.6955748200416565,False
+BR STADIUM Cricket ground,stadium_arena,cricket_ground,"Shop No 21, Br Stadium Complex",Guntur,522001,80.45492443,16.29032518,+919346713181,gunturcricket@gmail.com,0.768555760383606,False
+Sri Kasu Brahmananda Reddy Stadium,stadium_arena,stadium_arena,"Shop No 21, Br Stadium Complex",Guntur,522001,80.4542396,16.29011254,+919885031373,,0.5064809918403625,False
+LS Overseas,educational_service,educational_service,"Yadava High school, Dr no :- 16-04-68, near Gandhi Bomma centre",Guntur,522001,80.45957267,16.28997916,+918688542302,lsmanagementcareers@gmail.com,0.3455940783023834,False
+Reflexion,personal_or_beauty_service,beauty_salon,"5-87-27, R.C.C dhaba commercial complex, Lakshmipuram, Guntur, Andhra Pradesh 522007",Guntur,522007,80.46118392647533,16.29019469647612,+916309682268,reflexionclinic@gmail.com,0.5523656606674194,False
+Sri Anjaneya Cool Drinks,bar,bar,,Guntur,,80.46115056988847,16.290087543546633,,,0.5920650959014893,False
+GK Power Gym,gym,gym,"G1, YADAVULA GANDHI BOMMA CENTRE, MUNICIPAL COMPLEX, ANJENEYA, Venkateswara Swamy Temple St",Guntur,522001,80.45967556,16.29045783,+919346993299,,0.6325529217720032,False
+Sai Pawan CD Version,shopping,shopping,Old Guntur Main Road,Guntur,522001,80.45928193,16.29085199,,,0.27195435762405396,True
+Rajalakshmi Fancy and Kangan Hall,shopping,shopping,"Main Road, Old Guntur",Guntur,522001,80.459718,16.29117036,,,0.30326515436172485,True
+Mani Gift Articles,flowers_and_gifts_store,flowers_and_gifts_store,"main road, near ANJANEYA SWAMI TEMPLE",Guntur,522001,80.45926913,16.29097463,+918686242523,8886690111g@gmail.com,0.36226385831832886,True
+Guntur vascular centre,diagnostics_imaging_or_lab_service,doctors_office,"D.No. 26, 2-6/1, Collector Office Rd, Nagarampalem, ",Guntur,522004,80.454769134521,16.291142264799,+919642554747,gunturvascularcenter@gmail.com,0.8456125855445862,False
+Best Price Modern Wholesale India,warehouse_club_store,warehouse_club_store,"Rs No.495 A&B, Mangaldas Nagar, Opp SIMS college, Tobacco Colony, Mangalagiri Road ,",Guntur,522001,80.454339981079,16.29105988031,+918633051010,customer.care@walmart.com,0.6187480688095093,True
+Charminar Hotel,restaurant,indian_restaurant,"Lal Talaj Masjid Complex, Ponhur Road",Guntur,522001,80.45314469,16.29102711,+919397600716,,0.3254510164260864,True
+Motilal Oswal Financial Services Limited,financial_service,stock_and_bond_broker,"No 27/76, 3rd Line, Chilakaluripet, Purushottapatnam",Guntur,522616,80.4513693,16.2909931,09821512498,,0.9655,False
+Arfa Mobiles,electronics_store,mobile_phone_store,"18-24-15, opposite CHARMINAR HOTEL",Guntur,522003,80.4528498,16.29093102,+919014301880,,0.27725812792778015,True
+Sowmya Advanced Dental Clinic,dental_clinic,dental_clinic,,Guntur,,80.454940795898,16.290977495785,,,0.8643099665641785,False
+Lal Talab Masjid,muslim_place_of_worship,muslim_place_of_worship,,Guntur,,80.45327537,16.29069238,,,0.49587854743003845,False
+Ayyappa Binding Works,books_music_and_video_store,bookstore,"Vura, Seelam Vari St",Guntur,522003,80.44971615,16.29063545,+918186085732,ayyappabindingworks@gmail.com,0.2604156732559204,True
+Sky fitness Gym,sport_or_fitness_facility,sport_or_fitness_facility,FRUIT MARKET,Guntur,522003,80.44736613,16.2906953,+918074132373,,0.45329031348228455,False
+Sudhir Sneha Clinic,diagnostics_imaging_or_lab_service,doctors_office,"1st floor, BVR Complex, Ramdev paper mart, Near Lalapet PS. ",Guntur,522003,80.44817608,16.29138005,+917793922052,,0.22808146476745605,False
+Lalapet Police Station,police_station,police_station,Etukuru Road,Guntur,522003,80.44717063,16.29148271,+918632221261,,0.6869904398918152,False
+Happy Hospitals Shri Ramchandra Joint Replacement Hospitals,diagnostics_imaging_or_lab_service,doctors_office,"Sanakkayala Factory Road,","Guntur, A.P, INDIA",522001,80.45356750488281,16.29163657100934,090307 97989,,0.77,False
+Sun Siri Projects Pvt. Ltd.,real_estate_service,real_estate_service,21,Vijayawada,520010,80.452194213867,16.291801339469,+919934121212,sunsiriprojects@gmail.com,0.740571141242981,False
+Sri Abayanjanaya Swami Temple,Unknown,,"Babu hotel, street",Guntur,522003,80.44763248,16.29161667,,,0.4714021682739258,False
+Kvr electricals,manufacturer,manufacturer,Babu hotel street,Guntur,522003,80.44774,16.29169882,+919848236169,,0.250153124332428,False
+Spandana Printers,printing_service,printing_service,"# Do.No.22-6-44,Tunuguntlavari Street, Lalapet, Guntur",Guntur,522003,80.44873615,16.29187894,+919849250860,spandana.yvreddy@gmail.com,0.5946334600448608,False
+Santhoshi Tailoring Materials,fashion_and_apparel_store,fashion_and_apparel_store,Tunuguntavari St,Guntur,522003,80.44828029,16.29184609,+919885884473,,0.48438262939453125,True
+Devi Setty Mallaiah and Sons,food_and_beverage_store,grocery_store,21,Guntur,522006,80.44772,16.291952,+108632220922,,0.33026978373527527,True
+Albina Charitable Trust,civic_organization,charity_organization,22-13-124,Guntur,522003,80.44763102,16.29203114,,,0.268153578042984,False
+Venkateshwara and Company Offset Printers,shopping,shopping,"Thunuguntla Vari Street, Lalapet",Guntur,522003,80.44833944,16.29204876,,,0.27845299243927,True
+Vijay Krishna Graphics,shopping,shopping,"No 22-11-65, Thunuguntla Vari Street, Lalapet",Guntur,522003,80.44833044,16.29204767,+919848366154,,0.2712883949279785,True
+Joyjos overseas consultancy Guntur,educational_service,educational_service,"velampalli complex, ground floor, behind murthy fashions, lalapet",Guntur,522003,80.4491926,16.2920251,+919177790229,,0.5208979845046997,False
+KK TRENDS,fashion_and_apparel_store,clothing_store,"D.no:78-2, 161, beside Murthy handlooms",Guntur,522003,80.44945233,16.29208353,+919966193173,,0.20405198633670807,True
+St. Patrick's High School,place_of_learning,school,near Nukalamma gudi,Guntur,522003,80.44975462,16.29215992,,,0.6942229270935059,False
+Prudhvi Travel Vlogs,Unknown,,,Guntur,,80.44732,16.29222,,prudhvichand93@gmail.com,0.08568768203258514,False
+HDFC ERGO Insurance Agent: Sita Mahalakshmi Yalavarthi,financial_service,financial_service,No 2/94/2,Guntur,522264,80.448328,16.292369,079 4746 2835,,0.77,False
+Chowdary Cycle Shop,sporting_goods_store,bike_store,"Jinnah Towers, Main Rd",Guntur,522003,80.447141,16.29249109,+918632223905,,0.39073964953422546,True
+Spider,printing_service,printing_service,"Omkara Nilayam, Thunuguntlavari street",Guntur,522003,80.44845089,16.29244105,+919393723222,,0.07466413825750351,False
+Nukalamma gudi,hindu_place_of_worship,hindu_place_of_worship,,Guntur,,80.44984597,16.29226461,,,0.6124962568283081,False
+AndhraPradesh.artsnprints.com Guntur,printing_service,printing_service,guntur\n,Guntur,522001,80.45201,16.292229818156,+919036882889,info@artsnprints.com,0.5251644849777222,False
+Sri Vengamamba Ghee Sweets and Cool Drinks,casual_eatery,candy_store,"KODIGUDDU SATRAM COMPLEX, Near, STADIUM ROAD",Guntur,522001,80.45305511,16.2922863,+919966552165,,0.3116896450519562,True
+India Real Properties,real_estate_service,real_estate_agent,"SC complex, near B.R .Stadium Road",Guntur,522001,80.45302126,16.29229105,+918331832183,alexahomeproperties@gmail.com,0.2794046103954315,False
+AM Constructions,building_or_construction_service,building_or_construction_service,"SC COMPLEX, SHOP NO 8, FIRST FLOOR BR STADIUM ROAD, opp. POLICE STATION",Guntur,522001,80.4529431,16.29231467,+918143839643,mujeebshaik@amconstructions.co.in,0.3315214216709137,False
+Dr. Uma P Obstetrics and Gynaecologist,reproductive_perinatal_and_womens_care,obstetrics_and_gynecology,"Bhavani Nursing Home, Door Number.13-3-1., 2nd Lane",Gunturivarithota,522001,80.4521889,16.2923383,08632263736,,0.85,False
+Quality Snacks and Tea,shopping,shopping,Maulana Abul Kalam Azad Road,Guntur,522003,80.45271548,16.29244033,,,0.34317100048065186,True
+Calvary prayer channel,christian_place_of_worship,christian_place_of_worship,"3road, Ambedkar nagar 1st line 1",Guntur,522003,80.45245415,16.29241092,,,0.2958662211894989,False
+AK Tyres,automotive_service,tire_dealer_and_repair,14-4-244 B R Stadium Road,Guntur,522001,80.45244596,16.29241007,+919703141717,,0.550382673740387,False
+Axis Bank ATM,atm,atm,Plot No 18/39/1,Guntur,522003,80.452551,16.292385,+9118605005555,,1.0,False
+Wellness World,wellness_service,weight_loss_center,"4-4-82, 4, 1st Line, opposite Bsnl office",Guntur,522003,80.45255271,16.29238986,+919491187183,rampolice3863@gmail.com,0.1031021848320961,False
+Motilal Oswal Financial Services Limited,financial_service,stock_and_bond_broker,"No 23/3/51/1, Kotamraju Lane, Koritepadu",Guntur,522007,80.4525522,16.2923879,07411863973,,0.85,False
+Tata AIG General Insurance Company Limited,financial_service,auto_insurance,"H.No: D.No 6-11-32, 1st Floor, 11/1, Arundalpet",Guntur,522002,80.45255159999999,16.292386,18002667780,,0.85,False
+Shriram Finance Limited,bank_or_credit_union,credit_union,"No 13/1/10, 1st Floor, Main Road, Macherla",Guntur,522426,80.452536,16.292391,18001034959,,0.85,False
+Muthoot FinCorp Ltd.,financial_service,financial_service,"H No 204, Door No 5/37/217, 4/2 1st Flr",Guntur,522002,80.4525516,16.292386,092470 44559,,0.77,False
+Rowdy Men's Wear,fashion_and_apparel_store,clothing_store,10/1,Guntur,522003,80.45253718,16.29239243,,,0.1808830052614212,True
+Anjuman Marriage Function Hall,government_office,town_hall,,Guntur,,80.453669,16.292505,,,0.5715374946594238,False
+Anjuman E Islamia Shadi Quna,event_or_party_service,party_and_event_planning,"Old Guntur Main Road, Christian Pet, Old",Guntur,522001,80.45369572,16.29253981,,,0.502159059047699,False
+AP Agriculture,government_office,government_office,Guntur India,Guntur,522002,80.453567504883,16.292130875973,,mediacell.ap@gmail.com,0.7352542877197266,False
+HDFC ERGO Insurance Agent: Raghavend Rarao,financial_service,financial_service,No 1/2/46,Guntur,522403,80.452179,16.292053,080 3760 3588,,0.77,False
+Hassle Free Forex,financial_service,currency_exchange,"6/14 Brodipet, Opp Sri Venkateswara Degree College,Brodipet",Guntur,522002,80.452237129211,16.29196610779,+919704436031,gnthasslefree@gmail.com,0.5745277404785156,False
+Sri Kanaka Durga Tea Stall,restaurant,restaurant,Br Stadium Complex,Guntur,522001,80.45351814,16.29198001,,,0.29260730743408203,True
+Kausalya IAS Academy,place_of_learning,school,14th lane Arundelpet,Guntur,522002,80.45340047,16.29201087,,,0.5775379538536072,False
+Golden Education Academy,educational_service,educational_service,"POLICE STATION, B.R STADIUM COMPLEX, PONNUR ROAD OPPSITE",Guntur,522001,80.45340047,16.29201087,+919392952278,,0.6048403978347778,False
+Sri Mahakavi Tikkana Community Centre,government_office,town_hall,"803, Old Guntur",Guntur,522001,80.457757,16.29197,,,0.5783987045288086,False
+Pavani Decorations,corporate_or_business_office,corporate_or_business_office,"Range bomma centre, near RANGA BOMMA CENTRE",Guntur,522001,80.46030654,16.29252678,+918686444923,,0.4123273193836212,False
+Shri Rukmabai - Shri Panduranga Swamy Temple,hindu_place_of_worship,hindu_place_of_worship,beside oldguntur park,Guntur,522001,80.46031561,16.29170098,,,0.4764583706855774,False
+Rajaka Sangam Gangamma Community Hall,community_center,community_center,Old Guntur Main Rd,Guntur,522001,80.45552024,16.29188123,,,0.5058691501617432,False
+Shri Korlapati Ankamma Ammavari Devasthanam,hindu_place_of_worship,hindu_place_of_worship,Old Guntur Main Rd,Guntur,522001,80.456264,16.29161153,,,0.4543730616569519,False
+Anand Clinic Strategies,hospital,hospital,"house no 15-7-139 christian pet , old guntur, opp sbi bank main road ",Guntur,522001,80.4572,16.29149,+918498933148,,0.595277726650238,False
+Success Hari Boutiques and Aerobics,fashion_and_apparel_store,fashion_boutique,Old Guntur Main Rd,Guntur,522001,80.45696132,16.29148875,+919948204242,,0.7067992687225342,True
+Lalitha College of Nursing,college_university,college_university,Old Guntur Main Rd,Guntur,522001,80.45764861,16.29121608,,,0.7464970946311951,False
+Third View security systems,home_service,home_security,,Guntur,,80.4580299,16.2913,+918801269190,thirdview99@gmail.com,0.5325254201889038,False
+Satyam Computer Works,professional_service,professional_service,2/9th Cross Road Yadava Bazar Old Guntur Guntur,Guntur,522001,80.4580299,16.2913,+917013934271,kmurthy1693@gmail.com,0.5264951586723328,False
+Vijaya Lakshmi Enterprises,home_service,painting,Opp: Old Guntur Park,Guntur,522001,80.4580299,16.2913,+919640594354,,0.5463635325431824,False
+Gartapuri Bone & Joint Clinic,hospital,hospital,"Opp.Gowdiyamatam,1st Lane, Gunturuvari Thota",Guntur,522001,80.4580299,16.2913,+918632228266,,0.5814987421035767,False
+SAFE HANDS,hospital,hospital,"old club road, near bus stand ",Guntur,,80.4580299,16.2913,+919848818199,safehospitalguntur@gmail.com,0.6115323901176453,False
+"New Holland Agriculture, Sree Ram Tractors",auto_dealer,auto_dealer,"Road No 363, Shed No 09,Bye Pass Road, Phase No 6",Guntur,522001,80.46018,16.28958,075694 57776,,0.77,True
+Mahindra Pioneer Autoworld,auto_dealer,auto_dealer,"# 149, Mangalagiri Road, Agatavarapadu",Guntur,522001,80.460464,16.289314,088855 46846,,0.77,True
+"Sonalika - Vijaya Industries, Tractor Division",b2b_transportation_and_storage_service,tractor_dealer,"Shed No 8, Bypass Road, Indira Auto Nagar",Guntur,522001,80.4604643,16.2893144,09989542777,,0.85,False
+Lot Mobiles,manufacturer,industrial_equipment_manufacturer,"Shop No:13-8-194, 195, Opp RTC Bus Stand",Guntur,522001,80.4604803,16.2893106,08297129555,,0.85,False
+HDFC Bank,bank_or_credit_union,bank,D No 5/87/90 Main Road Lakshmipuram Guntur Andhra Pradesh,Guntur,522001,80.4604643,16.28931111,,,0.8,False
+Duroflex,hardware_home_and_garden_store,mattress_store,"Ward No 8, Near Mahankali Temple, Main Road",Guntur,522001,80.4604643,16.2893144,099482 07109,,0.77,True
+"Dr. M.Anuradha- MS OBG, FNB in High Risk Pregnancy & Fetal medicine , Andhra Pradesh",reproductive_perinatal_and_womens_care,obstetrics_and_gynecology,Vedanta Hospital Beside Vasavi Cloth Market Mangalagiri Road,Guntur,522001,80.4604671,16.2893235,,,0.85,False
+NEXA Autonagar,automotive_service,automotive_service,"Block No. 4, Autonagar, Phase IV, Mangalagiri Road",Guntur,522004,80.460523,16.289343,09866244544,,0.85,False
+Lakshmi Srinivasa General Store,food_and_beverage_store,grocery_store,,Guntur,,80.45948237600216,16.28952435083438,,,0.5611059665679932,True
+Pearls High School,high_school,high_school,Old Guntur,Guntur,522001,80.45969922,16.28963091,+918632218866,pearlsinstitutions@gmail.com,0.8761535882949829,False
+Anu Herbal Beauty Care,personal_or_beauty_service,beauty_salon,"D. No. 16-4-103,, Opp. Sri Lakshmi Puram Apartments, Old Guntur",Guntur,522001,80.45947786,16.28976554,+919949619831,,0.3151201009750366,False
+SM Lal Jaan Basha Park,park,park,"Gandi, Ponnur Road",Guntur,522003,80.45277574,16.28974529,,,0.5659436583518982,False
+Sarvani Sankar Bullion Jewellers and Works,fashion_and_apparel_store,jewelry_store,"Sri Rajeshwari Nilayam, 301",Guntur,522001,80.44800307,16.28984474,+919394868558,ssbullionjw@gmail.com,0.21993544697761536,True
+HDFC ERGO Insurance Agent: Hemanta Siva Kumar Yenduru,Unknown,,"House No 78/15/810, Peddapulli Street, Lalapet",Guntur,522003,80.448111,16.289811,08071888828,,0.9655,False
+Aditya Jewellery,shopping,shopping,Old Police Line,Guntur,522003,80.44746291,16.28939128,+918632220660,,0.22658602893352509,True
+Sri Lakshmi Jewellers,fashion_and_apparel_store,jewelry_store,"Flower Market, 21-2-89,CLOTH BAZAR,Main road",Guntur,522003,80.44736625,16.28929831,+919490788774,romanticjana@gmail.com,0.6841917037963867,True
+Morris Garages India,auto_dealer,auto_dealer,"No 36, Phase 4, Autonagar, Next to Royal Enfield Showroom",Guntur,522001,80.44722,16.28929,+919100068967,,0.9348716735839844,True
+Al-Hijamh clinic Guntur,health_care,health_care,,Guntur,,80.4531473,16.2894948,+919485558666,shaikimran0617@gmail.com,0.617786705493927,False
+Angel One Ltd. - M B Traders,financial_service,financial_service,"No 22/2/45, Apperjeetha Complex,Cloth Bazaar",Guntur,522003,80.448194,16.289193,080 4101 7414,,0.77,False
+Hindustan Video and Studios,shopping,shopping,Old Police Line,Guntur,522003,80.44888689,16.28912262,+918632217231,,0.31883078813552856,True
+Babu Jewellers,fashion_and_apparel_store,jewelry_store,,Guntur,522003,80.4471834,16.28898094,+918121231212,,0.5633572340011597,True
+Ramakrishna Towers,historic_site,historic_site,,Guntur,,80.44735362499952,16.288857925000034,,,0.45422297716140747,False
+Sri Vallabha matrimony,Unknown,,1st Ln,Guntur,522001,80.45687424,16.28910567,+916309297888,srivallabhamatrimony1981@gmail.com,0.4641398787498474,False
+VR High School,high_school,high_school,5th Line,Guntur,522001,80.45926766,16.28919439,+919490105926,,0.7489800453186035,False
+V R Public School,place_of_learning,school,,Guntur,,80.45937,16.28911,,,0.5620032548904419,False
+Hindustan Petroleum,gas_station,gas_station,Ground Floor,Nandivelugu Road,522001,80.45561173,16.29373777,,,0.954,False
+Sivalayam,hindu_place_of_worship,hindu_place_of_worship,Sivalayam Rd,Guntur,522001,80.45712056,16.293378,,,0.8418451547622681,False
+Shree Agastheswara Swamy Temple,hindu_place_of_worship,hindu_place_of_worship,,Guntur,,80.4567996000033,16.2933551833347,,,0.6547996401786804,False
+City Public School,place_of_learning,school,"Old Post Office Buildings, Manurivari Street",Guntur,522001,80.4574589,16.29297238,+918632211273,,0.6529614925384521,False
+Sevasupreme Detective and Security Services Pvt Ltd,professional_service,professional_service,"No. 16-24-3, Akkina Pragada Vari St",Guntur,522001,80.45802291,16.29300338,+919848179294,sevasupreme@yahoo.com,0.6441673040390015,False
+Bhanu Ortho and Chest Hospital ,health_care,health_care,10-25-1 Christianpet 1st line Udayagiri Bridge Centre ,Guntur,524201,80.45896,16.29321,+918626245699,infobhanuhospitals@gmail.com,0.8043813705444336,False
+Guntur old Markaz Masjid,muslim_place_of_worship,muslim_place_of_worship,    ,Guntur,522001,80.45242719,16.29318254,,,0.3575984239578247,False
+GUNTURghost,Unknown,,,Guntur,,80.45322,16.292987879978,+919493673238,gunturghost@gmail.com,0.1742696613073349,False
+Biryani Palace,restaurant,indian_restaurant,1st Line,Guntur,522001,80.45144265,16.29301563,+919985015786,,0.4220166802406311,True
+Hotel Ajmeer Maharaj,hotel,hotel,"Stadium Road, beside 2nd Line",Guntur,522001,80.45184689,16.29290301,+919000003578,,0.5855259895324707,False
+Police Station-Old Guntur,police_station,police_station,,Guntur,,80.45347434502405,16.292563307520734,,,0.7026952505111694,False
+"Mango Digital Madia Pvt Ltd.,",professional_service,marketing_agency,Guntur Andhra Pradesh India,Guntur,522001,80.45262,16.29255,+919985251317,mangodigitalmedia6@gmail.com,0.2522270083427429,False
+Sri Lakshmi Spices,b2b_service,agriculture,"Guntur, Andhra Pradesh",Guntur,522005,80.45262,16.29255,+917075559623,,0.2825281322002411,False
+GunturMultispeciality Hospital.,hospital,hospital,"Guntur,Andhra Pradesh",Guntur,522002,80.45262,16.29255,+18125671279,brdigitalmarketingtechnologies@gmail.com,0.3107035756111145,False
+Sk Vip Courses ,education,education,"Guntur, Andhra Pradesh, India",Guntur,522003,80.45262,16.29255,+919581529381,shaikshadaab951@gmail.com,0.20884141325950623,False
+Alexa Home Properties ,real_estate_service,real_estate_service,"Guntur, Andhra Pradesh, India",Guntur,522002,80.45262,16.29255,+918331832183,alexahomeproperties@gmail.com,0.2826954126358032,False
+St.Josephs DEd College for Women Guntur,education,education,,Guntur,,80.45130034681286,16.29266079309338,,stjosephded@gmail.com,0.7878256440162659,False
+Hindustan Agencies,supplier_or_distributor,electronic_equipment_supplier,Stadium Road,Guntur,522003,80.45145265,16.29268124,+919848013076,,0.834361732006073,False
+Ice n spice Guntur,casual_eatery,ice_cream_shop,H A Complex stadium road,Guntur,522003,80.45133100472727,16.292738807867178,+919030547400,amzakriya34@gmail.com,0.8785701394081116,True
+Metro Fabrications,manufacturer,metal_fabricator,14-4-244 B R Stadium Road,Guntur,522001,80.4522,16.29276,+918439848786,ashwaq@metrofabricators.com,0.26925161480903625,False
+Hotel Swarnandhra,restaurant,indian_restaurant,,Guntur,941735,80.452254,16.292771,,,0.5563682913780212,True
+Coastal Hybrid Seeds Depo,hardware_home_and_garden_store,nursery_and_gardening_store,,Guntur,522001,80.45244864,16.29276758,+918632223983,,0.4757678806781769,True
+National SportsWear,sporting_goods_store,sporting_goods_store,"circle, 1st 14-4-245 Main Road R.T.C Bus Stand B.R Stadium",Guntur,522001,80.45329232,16.29285261,+919032280012,nationalsportswearguntur06@gmail.com,0.7392787933349609,True
+Dawat Biryani House,restaurant,indian_restaurant,"Old Maharaja Complex 4th lane, Grand Trunk Rd",Guntur,522001,80.45207155,16.29284441,+917815895309,,0.643159031867981,True
+Hazarath Syed Gulzar Shah Vali Dargah,christian_place_of_worship,christian_place_of_worship,DARGAH CENTRE,Guntur,522003,80.45104595,16.2928689,,,0.3945032060146332,False
+Muthoot Finance Gold Loan,bank_or_credit_union,credit_union,"No. 22-4-23, Grand Trunk Rd, Lalapet, Near Hp Pump",Guntur,522003,80.4504167,16.2928686,09895889293,,0.85,False
+Hotel King,hotel,hotel,,Guntur,,80.450906,16.292757,,,0.5766674280166626,False
+HDFC ERGO Insurance Agent: Kishore Kumar Ponnuri,financial_service,financial_service,No 1/264/1,Guntur,522409,80.4500467,16.2926752,080 3760 4090,,0.77,False
+Royal enterprises,warehouse_club_store,warehouse_club_store,"3-27-37/2, 6th Ln",Guntur,522003,80.44738433,16.29295902,,,0.3077036142349243,True
+Titanic Showroom,shopping_mall,shopping_mall,Moosa Estate,Guntur,522003,80.44947354,16.29295962,,,0.3570317327976227,True
+Hindustan Petroleum,gas_station,gas_station,"D No 22/4/17, GT Road",Lalapet,522003,80.45061197,16.29292422,,,0.954,False
+JC Hosiery and Kids Stores,fashion_and_apparel_store,clothing_store,"Circle, Titanic Showroom Cellar, Beside Ramachandra Brothers, Old Bus Stand Center Old Bus Stand Trafic Signal",Guntur,522003,80.44957657,16.29304774,+919948587697,jcgroupsguntur@gmail.com,0.6730542182922363,True
+Ranjit Tyres,automotive_service,tire_shop,"23, G. T Road, Govt. General Hospital",Guntur,522001,80.44933,16.293118,04067263324,,0.85,False
+V HEAL Physiotherapy ,health_care,health_care,"Gunturuvari thota Main road, Bustand to Dmart road, Guntur ",Guntur,522001,80.4510795,16.2931101,+918885552114,vhealphysiotherapy@gmail.com,0.4840455949306488,False
+Dr. Satish Babu Athota- General Surgeon,surgery,surgery,"SLV Nursing Home, 41, Old Bus Stand Road, Lalapet",Guntur,522003,80.4471423,16.2931226,08632221968,,0.85,False
+Sri Raghavendra Hot Chips,casual_eatery,bakery,,Guntur,,80.44890884,16.29329433,+918632331905,,0.2685715854167938,True
+Chandana Brothers,fashion_and_apparel_store,clothing_store,"Patny Centre, Patny Centre",Guntur,500003,80.44843382,16.29329966,+914027898383,,0.6493250727653503,True
+Chandanaz - The Authentic Jeweller - Gold and Silver,fashion_and_apparel_store,jewelry_store,"Grand Trunk Rd, near jinnah tower",Guntur,522003,80.44834908,16.29336776,+919010221378,,0.29860296845436096,True
+Chandana Brothers Guntur,Unknown,,"Grand Trunk Rd, near jinnah tower, Lalapet",Guntur,522003,80.44765,16.29338,+919390058906,gunturchandanabrothers@gmail.com,0.5826842784881592,False
+Sri Chaitanya Junior College,college_university,college_university,"Hema Sudarshan Complex KV Bankn, Jinnah Tower Center Rd",Guntur,522003,80.44787872,16.29344636,+919100994829,,0.6279720067977905,False
+Jinnah Tower Center,monument,monument,"Jinnah tower centre, beside kvb bank",Guntur,522003,80.44747223,16.29345129,+917075750751,,0.6198948621749878,False
+Sree G V R C Medical Stores,pharmacy_and_drug_store,pharmacy,"ZINNAH TOWER, MAIN ROAD, GUNTUR 522001",Guntur,522001,80.4472777,16.2934789,+919030802929,gvrcmedicals@gmail.com,0.7136380076408386,True
+Syed Hussian Shavali Dargah,muslim_place_of_worship,muslim_place_of_worship,Maulana Abdul Kalam Road,Guntur,522003,80.44823682,16.29345456,,,0.36426272988319397,False
+ayush_automobiles_guntur_,vehicle_parts_store,auto_parts_store,"3/3, pothuruvari thota opp Govt boudi school kothapet\n",Guntur,522001,80.44967,16.29339,,,0.554641604423523,True
+APOSS open university,college_university,college_university,"A.P. Open School Society,\nOpp. Old Bus Stand, Pareeksha Bhavan,\nGovernment Boys High School (Urdu) Campus,",Guntur,522001,80.44967,16.29339,+918632239151,diraposs@apschooledu.in,0.6038557887077332,False
+Government Boys School,education,education,Maulana Abul Kalam Azad Road,Guntur,522001,80.44950897,16.29353015,,,0.5079434514045715,False
+St. Matthew's East Parish Church,christian_place_of_worship,christian_place_of_worship,Maulana Abul Kalam Azad Road,Guntur,522001,80.4504136,16.29331162,,,0.5863662958145142,False
+Star Bike Point,vehicle_parts_store,auto_parts_store,Old Bank Street,Guntur,522001,80.45015896,16.29327698,,,0.2401150017976761,True
+A V Krishna Murthy and Sons,gas_station,gas_station,D No 14-1-66 Stadium Road Opp Old Bus Stand,Guntur,522001,80.45082333,16.29329616,+916300577267,alapati.vamsee@gmail.com,0.6739306449890137,False
+eagle technologies,corporate_or_business_office,corporate_or_business_office,rtc bustand,Guntur,522001,80.4539907,16.29339868,+919885379129,,0.3774458169937134,False
+"New Hotel Madras Bilal, GUNTUR",restaurant,restaurant,Pothuri Vari Thota 2nd Line,Guntur,522001,80.45274633,16.29350454,+919666841537,,0.7989936470985413,True
+New Look Hair Fixing Studio,Unknown,,"Near NTR Circle, Opp.RTC Bustand.  ",Guntur,522001,80.45438,16.29357,+917993913398,newlookhairfixingsstudio@gmail.com,0.36852389574050903,False
+Tirumala Tirupati,hindu_place_of_worship,hindu_place_of_worship,,Guntur,,80.45467731284758,16.293703560233894,,,0.4566306471824646,False
+GIGA MADE - Manufacturer of Writing Boards,b2b_service,b2b_service,"D.No. 425A, 3-20 Puttakota, Kothapalem Grampanchayat, Edlapadu Manadal",Guntur,522529,80.45467376708984,16.293807983398438,08694080808,,0.85,False
+Aditya Birla Finance Limited,financial_service,life_insurance,"No 14/1, 1st Floor, Nandini Plaza, Arundelpet",Guntur,522001,80.454671,16.293811,08068869545,,0.85,False
+OYO 12906 Central Inn,hotel,hotel,"Central Inn, Central Plaza, Station Road",Guntur,522001,80.45467377,16.29380798,01246201305,,0.85,False
+HDFC Bank,bank_or_credit_union,bank,SN 47 to 50 & 97 to 100 DN 447/1R/W47 Annapurna Cplx Revenue Ward 24 Kakani Rd Guntur Andhra Pradesh,Guntur,522001,80.4546701,16.2938101,,,0.8,False
+Dr SAI KRISHNA BALINENI BEST GASTROENTEROLOGIST LIVER PANCREAS SPECIALIST,diagnostics_imaging_or_lab_service,doctors_office,Ramireddy Thota 1st Line,Guntur,522001,80.45467377,16.29380798,08885353988,,0.85,False
+Urban Company,medical_service,home_health_care,"Opp Mehar Baba Temple, Kakani Road",Guntur,522001,80.45467377,16.29380798,08002822200,,0.85,False
+Gunn Hall Church,christian_place_of_worship,christian_place_of_worship,Old Bank St,Guntur,522001,80.45053886,16.29361003,,,0.29633840918540955,False
+Pioneer Automotives,automotive_service,automotive_repair,,Guntur,,80.44869,16.2936,+918632233005,,0.5379691123962402,False
+Punjab National Bank,bank_or_credit_union,bank,"No 12/26/16, GT Road",Guntur,522001,80.44843687,16.29360709,091180 01800,,0.77,False
+Punjab National Bank - CDM,bank_or_credit_union,bank,"No 12/26/16, GT Road",Guntur,522001,80.44843687,16.29360709,091180 01800,,0.77,False
+Bharath Shoe Mart,fashion_and_apparel_store,shoe_store,Jinnatawar Center,Guntur,522003,80.4472052,16.29355106,+919948070592,,0.4438941180706024,True
+Srinivasa Electronics,electronics_store,electronics_store,"Revenue Complex , Shop No-1 Jinnah Tower centre, Main Rpad, beside Chowdary Medical",Guntur,522001,80.44783986,16.29366326,+919866653576,srinivasa.faith@gmail.com,0.6421216726303101,True
+Iroomz Murgan Residency,hotel,hotel,"No 12-26-16, Shymaldas Agraharam",Guntur,522001,80.448537,16.29375238,+918297885511,,0.6754222512245178,False
+Hanuma Sai Electronics,electronics_store,electronics_store,"Backside Haranath Baba Temple, Zinnah Tower",Guntur,522001,80.44783474,16.29395134,+919700306777,saiashoktej@gmail.com,0.6540656685829163,True
+Navatha Audio,electronics_store,electronics_store,"NAVATHA ELECTRONICS, beside R.S BROTHERS LANE",Guntur,522001,80.44832432,16.29401765,+919390069200,fandhaudio2023@gmail.com,0.5048373341560364,True
+Lalitha Guntur Advanced Laparoscopic and Laser Surgical Center,surgery,surgery_center,"lalitha nagar, Guntur national highway",Guntur,Takellapadu ,80.448846817017,16.294025700121,+919494469274,drsurgeon77@yahoo.co.in,0.7400726079940796,False
+Sonovision Gnt1,electronics_store,electronics_store,"Ward no 12, 49-3-91, Seelam Vari St, beside GK towers",Guntur,522001,80.44743175,16.2941956,+918636644650,,0.3742643892765045,True
+Aditya Birla Capital,financial_service,financial_service,"No 14/1, 1st Floor, Nandini Plaza",Guntur,522001,80.45467099,16.29407874,1800 270 7000,,0.77,False
+Jabbar Auto Re Boring Works,automotive_service,automotive_repair,"Pothuruvari Thota, near by Hotel",Guntur,522001,80.45255088,16.29404942,+919703997544,,0.3351682722568512,False
+Haailand,park,water_park,,Guntur,,80.4544717,16.2939831,+919394431144,,0.5562520027160645,False
+Veda grand,hotel,hotel,,Guntur,,80.4568277,16.2940061,+917331199911,vedagrand2019@gmail.com,0.6581344604492188,False
+Sri Krishna Function Hall,community_center,community_center,,Guntur,,80.4579619,16.2939596,,,0.5371958017349243,False
+India1 ATM,atm,atm,"Nadhicelugu Road, Kummari Bazar, Old Guntur, Near Gandhi Bomma Center",Guntur,522001,80.4600967,16.2941176,18004199520,,0.85,False
