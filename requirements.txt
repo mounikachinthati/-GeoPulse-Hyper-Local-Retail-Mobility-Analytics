@@ -5,3 +5,6 @@ seaborn
 folium
 fastapi
 uvicorn
+streamlit
+plotly
+requests
